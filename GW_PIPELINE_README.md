@@ -114,14 +114,6 @@ The pipeline automatically creates 5 files with descriptive names:
 | `{EventName}_projected_on_{DetectorID}_waveform.png` | Time-domain waveform projected onto detector |
 | `{EventName}_{DetectorID}_audio.wav` | Sonified waveform (WAV audio file) |
 
-### Example Output for `GW150914 L1`:
-- `GW150914_chirp_mass_source.png`
-- `GW150914_posterior_corner_plot.png`
-- `GW150914_spin_posterior_plot.png`
-- `GW150914_skymap.png`
-- `GW150914_projected_on_L1_waveform.png`
-- `GW150914_L1_audio.wav`
-
 ## Project Files
 
 - **`gw_sonification_pipeline.py`**: Command-line script for automated processing
