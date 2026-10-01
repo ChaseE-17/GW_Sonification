@@ -1,0 +1,27 @@
+# generated outputs
+gwsonify-output/
+*.wav
+*.mp4
+*.png
+*.h5
+*.hdf5
+*.gwf
+*.fits
+*.fits.gz
+docs/sweep-results.json
+# python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+# notebooks
+.ipynb_checkpoints/
+# OS
+.DS_Store
