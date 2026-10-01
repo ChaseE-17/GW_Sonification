@@ -61,7 +61,10 @@ Source = "https://github.com/ChaseE-17/GW_Sonification"
 path = "src/gwsonify/__init__.py"
 
 [tool.hatch.build.targets.sdist]
-exclude = ["/.github", "/docs/sweep", "*.ipynb_checkpoints"]
+# explicit allowlist: only project files go into the source distribution
+only-include = ["src", "tests", "notebooks", "scripts", "docs/sweep-results.md",
+                "README.md", "LICENSE", "CITATION.cff", "pyproject.toml"]
+exclude = ["*.ipynb_checkpoints", "__pycache__", "gwsonify-output"]
 
 [tool.pytest.ini_options]
 minversion = "7.4"
