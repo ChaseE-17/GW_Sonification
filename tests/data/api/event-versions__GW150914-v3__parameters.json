@@ -1,0 +1,167 @@
+{
+ "next": null,
+ "previous": null,
+ "results_count": 4,
+ "results_per_page": 500,
+ "num_pages": 1,
+ "page_number": 1,
+ "results": [
+  {
+   "name": "gwtc1_cwb_GW150914",
+   "description": "na",
+   "date_added": "2020-02-19",
+   "data_url": "",
+   "pipeline": "cwb",
+   "pipeline_type": "search",
+   "waveform_family": "na",
+   "is_preferred": false,
+   "links": [],
+   "parameters": [
+    {
+     "name": "network_matched_filter_snr",
+     "unit": "",
+     "description": "na",
+     "best": 25.2,
+     "upper_error": null,
+     "lower_error": null,
+     "is_upper_limit": false,
+     "is_lower_limit": false,
+     "decimal_places": 1
+    }
+   ]
+  },
+  {
+   "name": "gwtc1_gstlal_GW150914",
+   "description": "na",
+   "date_added": "2020-02-19",
+   "data_url": "",
+   "pipeline": "gstlal",
+   "pipeline_type": "search",
+   "waveform_family": "na",
+   "is_preferred": false,
+   "links": [],
+   "parameters": [
+    {
+     "name": "network_matched_filter_snr",
+     "unit": "",
+     "description": "na",
+     "best": 24.4,
+     "upper_error": null,
+     "lower_error": null,
+     "is_upper_limit": false,
+     "is_lower_limit": false,
+     "decimal_places": 1
+    }
+   ]
+  },
+  {
+   "name": "gwtc1_pe_GW150914",
+   "description": "na",
+   "date_added": "2020-02-19",
+   "data_url": "https://dcc.ligo.org/public/0157/P1800370/005/GW150914_GWTC-1.hdf5",
+   "pipeline": "lalinference",
+   "pipeline_type": "pe",
+   "waveform_family": "Overall_posterior",
+   "is_preferred": true,
+   "links": [
+    {
+     "url": "https://dcc.ligo.org/LIGO-P1800370/public",
+     "label": "posterior-samples",
+     "description": "DCC entry containing posterior samples for this PE run"
+    }
+   ],
+   "parameters": [
+    {
+     "name": "chi_eff",
+     "unit": "",
+     "description": "na",
+     "best": -0.01,
+     "upper_error": 0.12,
+     "lower_error": -0.13,
+     "is_upper_limit": false,
+     "is_lower_limit": false,
+     "decimal_places": 2
+    },
+    {
+     "name": "chirp_mass_source",
+     "unit": "M_sun",
+     "description": "na",
+     "best": 28.6,
+     "upper_error": 1.7,
+     "lower_error": -1.5,
+     "is_upper_limit": false,
+     "is_lower_limit": false,
+     "decimal_places": 1
+    },
+    {
+     "name": "luminosity_distance",
+     "unit": "Mpc",
+     "description": "na",
+     "best": 440.0,
+     "upper_error": 150.0,
+     "lower_error": -170.0,
+     "is_upper_limit": false,
+     "is_lower_limit": false,
+     "decimal_places": 0
+    },
+    {
+     "name": "mass_1_source",
+     "unit": "M_sun",
+     "description": "na",
+     "best": 35.6,
+     "upper_error": 4.7,
+     "lower_error": -3.1,
+     "is_upper_limit": false,
+     "is_lower_limit": false,
+     "decimal_places": 1
+    },
+    {
+     "name": "mass_2_source",
+     "unit": "M_sun",
+     "description": "na",
+     "best": 30.6,
+     "upper_error": 3.0,
+     "lower_error": -4.4,
+     "is_upper_limit": false,
+     "is_lower_limit": false,
+     "decimal_places": 1
+    },
+    {
+     "name": "redshift",
+     "unit": "",
+     "description": "na",
+     "best": 0.09,
+     "upper_error": 0.03,
+     "lower_error": -0.03,
+     "is_upper_limit": false,
+     "is_lower_limit": false,
+     "decimal_places": 2
+    }
+   ]
+  },
+  {
+   "name": "gwtc1_pycbc_GW150914",
+   "description": "na",
+   "date_added": "2020-02-19",
+   "data_url": "",
+   "pipeline": "pycbc",
+   "pipeline_type": "search",
+   "waveform_family": "na",
+   "is_preferred": false,
+   "links": [],
+   "parameters": [
+    {
+     "name": "network_matched_filter_snr",
+     "unit": "",
+     "description": "na",
+     "best": 23.6,
+     "upper_error": null,
+     "lower_error": null,
+     "is_upper_limit": false,
+     "is_lower_limit": false,
+     "decimal_places": 1
+    }
+   ]
+  }
+ ]
+}

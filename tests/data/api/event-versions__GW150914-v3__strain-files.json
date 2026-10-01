@@ -1,0 +1,74 @@
+{
+ "next": null,
+ "previous": null,
+ "results_count": 24,
+ "results_per_page": 500,
+ "num_pages": 1,
+ "page_number": 1,
+ "results": [
+  {
+   "gps_start": 1126259447,
+   "detector": "H1",
+   "sample_rate_kHz": 16,
+   "duration": 32,
+   "file_format": "HDF",
+   "download_url": "https://gwosc.org/eventapi/json/GWTC-1-confident/GW150914/v3/H-H1_GWOSC_16KHZ_R1-1126259447-32.hdf5"
+  },
+  {
+   "gps_start": 1126259447,
+   "detector": "H1",
+   "sample_rate_kHz": 4,
+   "duration": 32,
+   "file_format": "HDF",
+   "download_url": "https://gwosc.org/eventapi/json/GWTC-1-confident/GW150914/v3/H-H1_GWOSC_4KHZ_R1-1126259447-32.hdf5"
+  },
+  {
+   "gps_start": 1126257415,
+   "detector": "H1",
+   "sample_rate_kHz": 16,
+   "duration": 4096,
+   "file_format": "HDF",
+   "download_url": "https://gwosc.org/eventapi/json/GWTC-1-confident/GW150914/v3/H-H1_GWOSC_16KHZ_R1-1126257415-4096.hdf5"
+  },
+  {
+   "gps_start": 1126257415,
+   "detector": "H1",
+   "sample_rate_kHz": 4,
+   "duration": 4096,
+   "file_format": "HDF",
+   "download_url": "https://gwosc.org/eventapi/json/GWTC-1-confident/GW150914/v3/H-H1_GWOSC_4KHZ_R1-1126257415-4096.hdf5"
+  },
+  {
+   "gps_start": 1126259447,
+   "detector": "L1",
+   "sample_rate_kHz": 16,
+   "duration": 32,
+   "file_format": "HDF",
+   "download_url": "https://gwosc.org/eventapi/json/GWTC-1-confident/GW150914/v3/L-L1_GWOSC_16KHZ_R1-1126259447-32.hdf5"
+  },
+  {
+   "gps_start": 1126259447,
+   "detector": "L1",
+   "sample_rate_kHz": 4,
+   "duration": 32,
+   "file_format": "HDF",
+   "download_url": "https://gwosc.org/eventapi/json/GWTC-1-confident/GW150914/v3/L-L1_GWOSC_4KHZ_R1-1126259447-32.hdf5"
+  },
+  {
+   "gps_start": 1126257415,
+   "detector": "L1",
+   "sample_rate_kHz": 16,
+   "duration": 4096,
+   "file_format": "HDF",
+   "download_url": "https://gwosc.org/eventapi/json/GWTC-1-confident/GW150914/v3/L-L1_GWOSC_16KHZ_R1-1126257415-4096.hdf5"
+  },
+  {
+   "gps_start": 1126257415,
+   "detector": "L1",
+   "sample_rate_kHz": 4,
+   "duration": 4096,
+   "file_format": "HDF",
+   "download_url": "https://gwosc.org/eventapi/json/GWTC-1-confident/GW150914/v3/L-L1_GWOSC_4KHZ_R1-1126257415-4096.hdf5"
+  }
+ ]
+}

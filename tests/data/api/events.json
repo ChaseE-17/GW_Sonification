@@ -1,0 +1,192 @@
+{
+ "next": null,
+ "previous": null,
+ "results_count": 7,
+ "results_per_page": 500,
+ "num_pages": 1,
+ "page_number": 1,
+ "results": [
+  {
+   "name": "GW250114_082203",
+   "strain_files_url": "https://gwosc.org/api/v2/events/GW250114_082203/strain-files",
+   "detail_url": "https://gwosc.org/api/v2/events/GW250114_082203",
+   "aliases": [
+    "GW250114_082203"
+   ],
+   "versions": [
+    {
+     "version": 1,
+     "catalog": "O4_Discovery_Papers",
+     "detail_url": "https://gwosc.org/api/v2/event-versions/GW250114_082203-v1"
+    },
+    {
+     "version": 2,
+     "catalog": "GWTC-5.0",
+     "detail_url": "https://gwosc.org/api/v2/event-versions/GW250114_082203-v2"
+    }
+   ]
+  },
+  {
+   "name": "GW230529_181500",
+   "strain_files_url": "https://gwosc.org/api/v2/events/GW230529_181500/strain-files",
+   "detail_url": "https://gwosc.org/api/v2/events/GW230529_181500",
+   "aliases": [
+    "GW230529",
+    "GW230529_181500"
+   ],
+   "versions": [
+    {
+     "version": 1,
+     "catalog": "O4_Discovery_Papers",
+     "detail_url": "https://gwosc.org/api/v2/event-versions/GW230529_181500-v1"
+    },
+    {
+     "version": 2,
+     "catalog": "GWTC-4.0",
+     "detail_url": "https://gwosc.org/api/v2/event-versions/GW230529_181500-v2"
+    },
+    {
+     "version": 3,
+     "catalog": "GWTC-4.1",
+     "detail_url": "https://gwosc.org/api/v2/event-versions/GW230529_181500-v3"
+    }
+   ]
+  },
+  {
+   "name": "GW190521_074359",
+   "strain_files_url": "https://gwosc.org/api/v2/events/GW190521_074359/strain-files",
+   "detail_url": "https://gwosc.org/api/v2/events/GW190521_074359",
+   "aliases": [
+    "GW190521_074359"
+   ],
+   "versions": [
+    {
+     "version": 1,
+     "catalog": "GWTC-2",
+     "detail_url": "https://gwosc.org/api/v2/event-versions/GW190521_074359-v1"
+    },
+    {
+     "version": 2,
+     "catalog": "GWTC-2.1-confident",
+     "detail_url": "https://gwosc.org/api/v2/event-versions/GW190521_074359-v2"
+    },
+    {
+     "version": 3,
+     "catalog": "IAS-O3a",
+     "detail_url": "https://gwosc.org/api/v2/event-versions/GW190521_074359-v3"
+    }
+   ]
+  },
+  {
+   "name": "GW190521",
+   "strain_files_url": "https://gwosc.org/api/v2/events/GW190521/strain-files",
+   "detail_url": "https://gwosc.org/api/v2/events/GW190521",
+   "aliases": [
+    "GW190521",
+    "GW190521_030229"
+   ],
+   "versions": [
+    {
+     "version": 1,
+     "catalog": "O3_Discovery_Papers",
+     "detail_url": "https://gwosc.org/api/v2/event-versions/GW190521-v1"
+    },
+    {
+     "version": 2,
+     "catalog": "O3_Discovery_Papers",
+     "detail_url": "https://gwosc.org/api/v2/event-versions/GW190521-v2"
+    },
+    {
+     "version": 3,
+     "catalog": "GWTC-2",
+     "detail_url": "https://gwosc.org/api/v2/event-versions/GW190521-v3"
+    },
+    {
+     "version": 4,
+     "catalog": "GWTC-2.1-confident",
+     "detail_url": "https://gwosc.org/api/v2/event-versions/GW190521-v4"
+    }
+   ]
+  },
+  {
+   "name": "GW170817",
+   "strain_files_url": "https://gwosc.org/api/v2/events/GW170817/strain-files",
+   "detail_url": "https://gwosc.org/api/v2/events/GW170817",
+   "aliases": [
+    "GW170817"
+   ],
+   "versions": [
+    {
+     "version": 1,
+     "catalog": "O1_O2-Preliminary",
+     "detail_url": "https://gwosc.org/api/v2/event-versions/GW170817-v1"
+    },
+    {
+     "version": 2,
+     "catalog": "O1_O2-Preliminary",
+     "detail_url": "https://gwosc.org/api/v2/event-versions/GW170817-v2"
+    },
+    {
+     "version": 3,
+     "catalog": "GWTC-1-confident",
+     "detail_url": "https://gwosc.org/api/v2/event-versions/GW170817-v3"
+    }
+   ]
+  },
+  {
+   "name": "GW151226",
+   "strain_files_url": "https://gwosc.org/api/v2/events/GW151226/strain-files",
+   "detail_url": "https://gwosc.org/api/v2/events/GW151226",
+   "aliases": [
+    "GW151226"
+   ],
+   "versions": [
+    {
+     "version": 1,
+     "catalog": "O1_O2-Preliminary",
+     "detail_url": "https://gwosc.org/api/v2/event-versions/GW151226-v1"
+    },
+    {
+     "version": 2,
+     "catalog": "GWTC-1-confident",
+     "detail_url": "https://gwosc.org/api/v2/event-versions/GW151226-v2"
+    },
+    {
+     "version": 3,
+     "catalog": "GWTC-2.1-confident",
+     "detail_url": "https://gwosc.org/api/v2/event-versions/GW151226-v3"
+    }
+   ]
+  },
+  {
+   "name": "GW150914",
+   "strain_files_url": "https://gwosc.org/api/v2/events/GW150914/strain-files",
+   "detail_url": "https://gwosc.org/api/v2/events/GW150914",
+   "aliases": [
+    "GW150914"
+   ],
+   "versions": [
+    {
+     "version": 1,
+     "catalog": "O1_O2-Preliminary",
+     "detail_url": "https://gwosc.org/api/v2/event-versions/GW150914-v1"
+    },
+    {
+     "version": 2,
+     "catalog": "O1_O2-Preliminary",
+     "detail_url": "https://gwosc.org/api/v2/event-versions/GW150914-v2"
+    },
+    {
+     "version": 3,
+     "catalog": "GWTC-1-confident",
+     "detail_url": "https://gwosc.org/api/v2/event-versions/GW150914-v3"
+    },
+    {
+     "version": 4,
+     "catalog": "GWTC-2.1-confident",
+     "detail_url": "https://gwosc.org/api/v2/event-versions/GW150914-v4"
+    }
+   ]
+  }
+ ]
+}

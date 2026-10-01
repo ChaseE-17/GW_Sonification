@@ -1,0 +1,32 @@
+{
+ "name": "GW150914",
+ "grace_id": "G184098",
+ "run": "O1",
+ "gcn_notice": "https://gcn.gsfc.nasa.gov/notices_l/G184098.lvc",
+ "gcn_circular": "https://gcn.nasa.gov/circulars?query=G184098",
+ "aliases": [
+  "GW150914"
+ ],
+ "versions": [
+  {
+   "version": 1,
+   "catalog": "O1_O2-Preliminary",
+   "detail_url": "https://gwosc.org/api/v2/event-versions/GW150914-v1"
+  },
+  {
+   "version": 2,
+   "catalog": "O1_O2-Preliminary",
+   "detail_url": "https://gwosc.org/api/v2/event-versions/GW150914-v2"
+  },
+  {
+   "version": 3,
+   "catalog": "GWTC-1-confident",
+   "detail_url": "https://gwosc.org/api/v2/event-versions/GW150914-v3"
+  },
+  {
+   "version": 4,
+   "catalog": "GWTC-2.1-confident",
+   "detail_url": "https://gwosc.org/api/v2/event-versions/GW150914-v4"
+  }
+ ]
+}

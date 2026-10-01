@@ -1,0 +1,21 @@
+{
+ "name": "GW150914",
+ "gps": 1126259462.4,
+ "version": 1,
+ "catalog": "O1_O2-Preliminary",
+ "run": "O1",
+ "grace_id": "G184098",
+ "aliases": [
+  "GW150914"
+ ],
+ "gcn_notice": "https://gcn.gsfc.nasa.gov/notices_l/G184098.lvc",
+ "gcn_circular": "https://gcn.nasa.gov/circulars?query=G184098",
+ "doi": "https://doi.org/10.7935/K5MW2F23",
+ "detectors": [
+  "H1",
+  "L1"
+ ],
+ "parameters_url": "https://gwosc.org/api/v2/event-versions/GW150914-v1/parameters",
+ "timelines_url": "https://gwosc.org/api/v2/event-versions/GW150914-v1/timelines",
+ "strain_files_url": "https://gwosc.org/api/v2/event-versions/GW150914-v1/strain-files"
+}
