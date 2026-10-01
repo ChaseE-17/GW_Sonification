@@ -1,0 +1,122 @@
+{
+ "next": null,
+ "previous": null,
+ "results_count": 1,
+ "results_per_page": 500,
+ "num_pages": 1,
+ "page_number": 1,
+ "results": [
+  {
+   "name": "GWTC-1-confident_GW150914_R2_pe_combined",
+   "description": "na",
+   "date_added": "2022-05-13",
+   "data_url": "https://zenodo.org/api/files/ecf41927-9275-47da-8b37-e299693fe5cb/IGWN-GWTC2p1-v2-GW150914_095045_PEDataRelease_mixed_cosmo.h5",
+   "pipeline": "lalinference",
+   "pipeline_type": "pe",
+   "waveform_family": "C01:Mixed",
+   "is_preferred": true,
+   "links": [
+    {
+     "url": "https://doi.org/10.5281/zenodo.6513631",
+     "label": "posterior-samples",
+     "description": "Zenodo entry containing posterior samples for this PE run"
+    },
+    {
+     "url": "https://zenodo.org/api/files/ecf41927-9275-47da-8b37-e299693fe5cb/IGWN-GWTC2p1-v2-PESkyMaps.tar.gz",
+     "label": "skymap",
+     "description": "URL for tar of Skymap FITS files"
+    }
+   ],
+   "parameters": [
+    {
+     "name": "chi_eff",
+     "unit": "",
+     "description": "na",
+     "best": -0.04,
+     "upper_error": 0.12,
+     "lower_error": -0.14,
+     "is_upper_limit": false,
+     "is_lower_limit": false,
+     "decimal_places": 2
+    },
+    {
+     "name": "chirp_mass_source",
+     "unit": "M_sun",
+     "description": "na",
+     "best": 27.9,
+     "upper_error": 1.7,
+     "lower_error": -1.5,
+     "is_upper_limit": false,
+     "is_lower_limit": false,
+     "decimal_places": 1
+    },
+    {
+     "name": "luminosity_distance",
+     "unit": "Mpc",
+     "description": "na",
+     "best": 470.0,
+     "upper_error": 140.0,
+     "lower_error": -160.0,
+     "is_upper_limit": false,
+     "is_lower_limit": false,
+     "decimal_places": 0
+    },
+    {
+     "name": "mass_1_source",
+     "unit": "M_sun",
+     "description": "na",
+     "best": 34.6,
+     "upper_error": 4.4,
+     "lower_error": -2.6,
+     "is_upper_limit": false,
+     "is_lower_limit": false,
+     "decimal_places": 1
+    },
+    {
+     "name": "mass_2_source",
+     "unit": "M_sun",
+     "description": "na",
+     "best": 30.0,
+     "upper_error": 2.9,
+     "lower_error": -4.6,
+     "is_upper_limit": false,
+     "is_lower_limit": false,
+     "decimal_places": 1
+    },
+    {
+     "name": "network_matched_filter_snr",
+     "unit": "",
+     "description": "na",
+     "best": 26.0,
+     "upper_error": 0.1,
+     "lower_error": -0.2,
+     "is_upper_limit": false,
+     "is_lower_limit": false,
+     "decimal_places": 1
+    },
+    {
+     "name": "redshift",
+     "unit": "",
+     "description": "na",
+     "best": 0.1,
+     "upper_error": 0.03,
+     "lower_error": -0.03,
+     "is_upper_limit": false,
+     "is_lower_limit": false,
+     "decimal_places": 2
+    },
+    {
+     "name": "total_mass_source",
+     "unit": "M_sun",
+     "description": "na",
+     "best": 64.5,
+     "upper_error": 3.7,
+     "lower_error": -3.2,
+     "is_upper_limit": false,
+     "is_lower_limit": false,
+     "decimal_places": 1
+    }
+   ]
+  }
+ ]
+}

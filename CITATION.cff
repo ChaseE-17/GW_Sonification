@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: >-
+  If you use gwsonify in teaching materials, outreach or publications, please cite it
+  as below. Please also acknowledge GWOSC (https://gwosc.org/acknowledgement/) and cite
+  the data release and catalog papers for the events you use; each output's
+  *.provenance.json lists the event DOI.
+title: "gwsonify: hear gravitational waves from GWOSC data"
+type: software
+authors:
+  - given-names: Chase
+    family-names: Enlowsmith
+version: 0.1.0
+date-released: 2026-10-01
+license: MIT
+repository-code: "https://github.com/ChaseE-17/GW_Sonification"
+keywords:
+  - gravitational waves
+  - sonification
+  - GWOSC
+  - LIGO
+  - Virgo
+  - KAGRA
+  - education
+references:
+  - type: article
+    title: "Open data from the first and second observing runs of Advanced LIGO and Advanced Virgo"
+    authors:
+      - name: "LIGO Scientific Collaboration and Virgo Collaboration"
+    journal: SoftwareX
+    volume: 13
+    start: 100658
+    year: 2021
+    doi: 10.1016/j.softx.2021.100658
+  - type: article
+    title: "Open Data from the Third Observing Run of LIGO, Virgo, KAGRA, and GEO"
+    authors:
+      - name: "LIGO Scientific Collaboration, Virgo Collaboration and KAGRA Collaboration"
+    journal: "The Astrophysical Journal Supplement Series"
+    volume: 267
+    start: 29
+    year: 2023
+    doi: 10.3847/1538-4365/acdc9f

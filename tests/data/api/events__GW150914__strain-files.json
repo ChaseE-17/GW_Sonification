@@ -1,0 +1,46 @@
+{
+ "next": null,
+ "previous": null,
+ "results_count": 4,
+ "results_per_page": 500,
+ "num_pages": 1,
+ "page_number": 1,
+ "results": [
+  {
+   "gps_start": 1126256640,
+   "utc_start": "2015-09-14T09:03:43",
+   "detector": "L1",
+   "sample_rate_kHz": 16,
+   "hdf5_url": "https://gwosc.org/archive/data/O1_16KHZ/1126170624/L-L1_LOSC_16_V1-1126256640-4096.hdf5",
+   "gwf_url": "https://gwosc.org/archive/data/O1_16KHZ/1126170624/L-L1_LOSC_16_V1-1126256640-4096.gwf",
+   "detail_url": "https://gwosc.org/api/v2/strain-files/L1-1126256640-16kHz"
+  },
+  {
+   "gps_start": 1126256640,
+   "utc_start": "2015-09-14T09:03:43",
+   "detector": "H1",
+   "sample_rate_kHz": 4,
+   "hdf5_url": "https://gwosc.org/archive/data/O1/1126170624/H-H1_LOSC_4_V1-1126256640-4096.hdf5",
+   "gwf_url": "https://gwosc.org/archive/data/O1/1126170624/H-H1_LOSC_4_V1-1126256640-4096.gwf",
+   "detail_url": "https://gwosc.org/api/v2/strain-files/H1-1126256640-4kHz"
+  },
+  {
+   "gps_start": 1126256640,
+   "utc_start": "2015-09-14T09:03:43",
+   "detector": "H1",
+   "sample_rate_kHz": 16,
+   "hdf5_url": "https://gwosc.org/archive/data/O1_16KHZ/1126170624/H-H1_LOSC_16_V1-1126256640-4096.hdf5",
+   "gwf_url": "https://gwosc.org/archive/data/O1_16KHZ/1126170624/H-H1_LOSC_16_V1-1126256640-4096.gwf",
+   "detail_url": "https://gwosc.org/api/v2/strain-files/H1-1126256640-16kHz"
+  },
+  {
+   "gps_start": 1126256640,
+   "utc_start": "2015-09-14T09:03:43",
+   "detector": "L1",
+   "sample_rate_kHz": 4,
+   "hdf5_url": "https://gwosc.org/archive/data/O1/1126170624/L-L1_LOSC_4_V1-1126256640-4096.hdf5",
+   "gwf_url": "https://gwosc.org/archive/data/O1/1126170624/L-L1_LOSC_4_V1-1126256640-4096.gwf",
+   "detail_url": "https://gwosc.org/api/v2/strain-files/L1-1126256640-4kHz"
+  }
+ ]
+}
